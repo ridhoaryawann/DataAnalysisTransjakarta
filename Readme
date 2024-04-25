@@ -1,0 +1,49 @@
+![Header](./docs/header.png)
+
+## About
+
+Executive Summary
+
+This data analysis delves into four pivotal aspects crucial for the enhancement of both Transjakarta as a company and the DKI Jakarta government as a provider of public transportation services. By focusing on these essential areas, significant opportunities for improvement emerge, overshadowing relatively inconsequential matters such as station naming controversies.
+
+1. Business Performance
+
+The analysis reveals substantial room for improvement in Transjakarta's business performance. Despite Jakarta's large population, the revenue generated falls short of expectations. Notably, significant losses are observed across all bus types, with Busway services bearing the brunt of profit depletion.
+
+2. User Engagement
+
+The adoption of public transportation, particularly Transjakarta buses, remains disappointingly low among Jakartans. Female commuters dominate the user demographic, while the distribution across age categories is evenly spread. Alarmingly, a substantial portion of users comprises the elderly and children, highlighting the need for enhanced accessibility and safety measures.
+
+3. Security and Comfort
+
+The safety and comfort of passengers, especially vulnerable groups such as women, the elderly, and children, demand immediate attention. Protecting these marginalized demographics not only safeguards a significant portion of Transjakarta's revenue but also underscores the government's commitment to ensuring the well-being of its constituents.
+
+4. Accessibility
+
+While physical and financial accessibility to Transjakarta services appears relatively adequate, there are notable challenges that hinder broader inclusivity. Addressing issues such as tap-out rates and payment method diversity is imperative. Furthermore, improving bus speeds is paramount to enhancing competitiveness against private transportation options, alleviating traffic congestion, and bolstering public trust in the efficacy of public transit solutions.
+
+In conclusion, prioritizing these four critical areas—business performance, user engagement, security and comfort, and accessibility—will pave the way for a more robust and sustainable public transportation system in Jakarta. By aligning corporate strategies with governmental initiatives, Transjakarta can better serve the needs of its citizens while contributing to the overarching goal of urban mobility optimization.
+
+
+## Installation
+
+To get this project, you can clone it by running the following code:
+
+    git clone git@github.com:ridhoaryawann/DataAnalysisTransjakarta.git
+
+    
+## Project Organization
+
+The directory structure of IndoMarket project looks like this:
+
+    ├── README.md          <- README for developers using this project.
+    │
+    ├── docs               <- The document will consist of: 1)Transjakarta.csv : raw data. 1)cleaned_transjakarta.csv : raw data that have been cleaned. 
+    │
+    ├── src                <- Source code for use in this project. Data_Cleansing.py contains cleansing proccess code and Data_Analysis.py contains data wrangling and visualization proccess  
+    │
+    ├── dashboard          <- to acces dashboard, you can go to https://public.tableau.com/app/profile/ridho.aryawan/vizzes and choose Transjakarta Public Monitoring Dashboard
+
+## Contribute
+
+If you'd like to contribute to IndoMarket Apps, check out https://github.com/ridhoaryawann/DataAnalysisTransjakarta.git, or feel free to contact me.
